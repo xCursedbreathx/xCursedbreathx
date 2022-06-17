@@ -5,7 +5,7 @@
 
 <img src="https://profile-counter.glitch.me/Cursedbreath/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Cursedbreath?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Cursedbreath.svg?style=social&label=Followers)](https://github.com/Cursedbreath?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Cursed!;I'm+a+Minecraft+Developer...)](https://git.io/typing-svg)
 
