@@ -71,7 +71,7 @@
     &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="IntelliJ" src="https://e7.pngegg.com/pngimages/788/545/png-clipart-ij-logo-with-black-blue-red-and-orange-background-intellij-idea-logo-icons-logos-emojis-tech-companies.png"></a>
+    <a href="#">IntelliJ</a>
     
 </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
