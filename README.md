@@ -67,7 +67,7 @@
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
   &emsp;
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/static&v1?message=IntelliJ&color=informational?style=for-the-badge&logo=IntelliJ&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
     &emsp;
