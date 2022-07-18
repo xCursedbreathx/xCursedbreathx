@@ -74,10 +74,9 @@
     <a href="#">IntelliJ</a>
     
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Jan-Zachulski&theme=gruvbox" />
 
 
 <br/>
 
-Last Edited on: 16/06/2022
+Last Edited on: 18/07/2022
