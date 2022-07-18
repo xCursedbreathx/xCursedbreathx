@@ -5,11 +5,11 @@
 
 <img src="https://profile-counter.glitch.me/Cursedbreath/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/Jan-Zachulski.svg?style=social&label=Followers)](https://github.com/Jan-Zachulski?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/xCursedbreathx.svg?style=social&label=Followers)](https://github.com/xCursedbreathx?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Cursed!;I'm+a+Minecraft+Developer...)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Jan-Zachulski&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=xCursedbreathx&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
@@ -22,21 +22,21 @@
 - 😄 Pronouns: ... We/Us 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jan-Zachulski&theme=gruvbox" alt=""  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xCursedbreathx&theme=gruvbox" alt=""  /></p>
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jan-Zachulski&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jan-Zachulski&show_icons=true&locale=en&theme=gruvbox" alt="" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xCursedbreathx&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xCursedbreathx&show_icons=true&locale=en&theme=gruvbox" alt="" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Jan-Zachulski&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=xCursedbreathx&theme=gruvbox&hide_border=true&area=true)
 
 
 
@@ -71,10 +71,10 @@
     &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     &emsp;
-    <a href="#">IntelliJ</a>
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/IntelliJ-Community%20Edition-yellow?style=for-the-badge"></a>
     
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=Jan-Zachulski&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=xCursedbreathx&theme=gruvbox" />
 
 
 <br/>
