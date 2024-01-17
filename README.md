@@ -7,7 +7,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/xCursedbreathx.svg?style=social&label=Followers)](https://github.com/xCursedbreathx?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Cursed!;I'm+a+Java+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Cursedbreath!;I'm+a+Java+Developer...)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=xCursedbreathx&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
