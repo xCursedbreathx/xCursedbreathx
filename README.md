@@ -36,10 +36,6 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=xCursedbreathx&theme=gruvbox&hide_border=true&area=true)
-
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -71,7 +67,7 @@
     &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/IntelliJ-Community%20Edition-yellow?style=for-the-badge"></a>
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/IntelliJ-Ultimate%20Edition-yellow?style=for-the-badge"></a>
     
 </p>
 <img src="https://github-profile-trophy.vercel.app/?username=xCursedbreathx&theme=gruvbox" />
