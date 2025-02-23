@@ -1,78 +1,27 @@
+# 💫 About Me:
+Currently i am learning React
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jfWBCEM) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Cursedbreath) 
 
-### Hi there 👋
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xCursedbreathx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xCursedbreathx&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xCursedbreathx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://profile-counter.glitch.me/Cursedbreath/count.svg">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xCursedbreathx&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-[![GitHub followers](https://img.shields.io/github/followers/xCursedbreathx.svg?style=social&label=Followers)](https://github.com/xCursedbreathx?tab=followers)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Cursedbreath!;I'm+a+Java+Developer...)](https://git.io/typing-svg)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=xCursedbreathx&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://komarev.com/ghpvc/?username=xCursedbreathx&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+---
+[![](https://visitcount.itsvg.in/api?id=xCursedbreathx&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<h3> Here's some fun facts about me: </h3>
-
-- 🔭 I’m currently working on Minecraft Plugins
-- 💬 Ask me about Programming
-
-
-<br>
-</p>
-- 😄 Pronouns: ... We/Us 
-
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xCursedbreathx&theme=gruvbox" alt=""  /></p>
-
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xCursedbreathx&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xCursedbreathx&show_icons=true&locale=en&theme=gruvbox" alt="" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-  
-
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-
-
-</p>
-
-### 👉 Frameworks
-<p align="left"> 
-  
-</p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/IntelliJ-Ultimate%20Edition-yellow?style=for-the-badge"></a>
-    
-</p>
-<img src="https://github-profile-trophy.vercel.app/?username=xCursedbreathx&theme=gruvbox" />
-
-
-<br/>
-
-Last Edited on: 18/07/2022
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
